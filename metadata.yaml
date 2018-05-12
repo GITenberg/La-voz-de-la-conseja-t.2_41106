@@ -1,0 +1,136 @@
+_repo: La-voz-de-la-conseja-t.2_41106
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41106-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Blasco Ibanez, Vicente
+    - Ibáñez, Vicente Blasco
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+  - agent_name: Gamero, Gutiérrez
+    alias: Gamero, Gutierrez
+    gutenberg_agent_id: '40986'
+    url: http://www.gutenberg.org/2009/agents/40986
+  - agent_name: Hoyos y Vinent, Antonio de
+    aliases:
+    - Vinent, Antonio de Hoyos y
+    - Hoyos, Antonio de
+    birthdate: &id001 1885
+    deathdate: 1940
+    gutenberg_agent_id: '33433'
+    url: http://www.gutenberg.org/2009/agents/33433
+    wikipedia: http://es.wikipedia.org/wiki/Antonio_de_Hoyos_y_Vinent
+  - agent_name: Trigo, Felipe
+    birthdate: 1864
+    deathdate: &id002 1916
+    gutenberg_agent_id: '43564'
+    url: http://www.gutenberg.org/2009/agents/43564
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Felipe_Trigo
+    - http://en.wikipedia.org/wiki/Felipe_Trigo
+  - agent_name: Espina, Concha
+    aliases:
+    - Tagle, Concha Espina y
+    - Serna, Concha Espina de
+    birthdate: 1869
+    deathdate: 1955
+    gutenberg_agent_id: '4058'
+    url: http://www.gutenberg.org/2009/agents/4058
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Concha_Espina
+    - http://es.wikipedia.org/wiki/Concha_Espina
+  - agent_name: San Martín, Bernardo Morales
+    aliases:
+    - Martín, Bernardo Morales San
+    - Martin, Bernardo Morales San
+    gutenberg_agent_id: '40978'
+    url: http://www.gutenberg.org/2009/agents/40978
+  - agent_name: Álvarez Quintero, Joaquín
+    aliases:
+    - Quintero, Joaquin Alvarez
+    - Quintero, Joaquín Álvarez
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '6939'
+    url: http://www.gutenberg.org/2009/agents/6939
+  - agent_name: San José, Diego
+    aliases:
+    - José, Diego San
+    - Jose, Diego San
+    birthdate: *id001
+    deathdate: 1962
+    gutenberg_agent_id: '40979'
+    url: http://www.gutenberg.org/2009/agents/40979
+  - agent_name: Ortega Munilla, J. (José)
+    aliases:
+    - Munilla, J. Ortega (José Ortega)
+    - Munilla, J. Ortega (Jose Ortega)
+    - Munilla, José Ortega
+    birthdate: 1856
+    deathdate: 1922
+    gutenberg_agent_id: '40981'
+    url: http://www.gutenberg.org/2009/agents/40981
+  - agent_name: Echegaray, José
+    aliases:
+    - Hayaseca, Jorge
+    - Eizaguirre, José Echegaray y
+    - Echegaray, Jose
+    birthdate: 1832
+    deathdate: *id002
+    gutenberg_agent_id: '40983'
+    url: http://www.gutenberg.org/2009/agents/40983
+  - agent_name: Retana, Alvaro
+    aliases:
+    - Retana, Alvaro de
+    - Ramírez de Arellano, Alvaro Retana
+    - Arellano, Alvaro Retana Ramirez de
+    - Arellano, Alvaro Retana Ramírez de
+    - De Arellano, Alvaro Retana Ramírez
+    - De Retana, Alvaro
+    gutenberg_agent_id: '40985'
+    url: http://www.gutenberg.org/2009/agents/40985
+  - agent_name: Fernández-Flórez, Wenceslao
+    aliases:
+    - Flórez, W. F. (Wenceslao Fernández)
+    - Fernandez-Florez, Wenceslao
+    birthdate: *id001
+    deathdate: 1964
+    gutenberg_agent_id: '40980'
+    url: http://www.gutenberg.org/2009/agents/40980
+  - agent_name: Álvarez Quintero, Serafín
+    aliases:
+    - Quintero, Serafín Álvarez
+    - Quintero, Serafin Alvarez
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '6938'
+    url: http://www.gutenberg.org/2009/agents/6938
+  editor:
+    agent_name: Carrere, Emilio
+    alias: Carrère, Emilio
+    birthdate: 1881
+    deathdate: 1947
+    gutenberg_agent_id: '25770'
+    url: http://www.gutenberg.org/2009/agents/25770
+description: ''
+gutenberg_issued: '2012-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41106'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction'
+- !lcc 'PQ'
+title: "La voz de la conseja, t.2\r\nSelección de las mejores novelas breves y cuentos\
+  \ de los más esclarecidos literatos"
+url: http://www.gutenberg.org/ebooks/41106

@@ -22,14 +22,14 @@ creator:
     aliases:
     - Vinent, Antonio de Hoyos y
     - Hoyos, Antonio de
-    birthdate: &id001 1885
+    birthdate: 1885
     deathdate: 1940
     gutenberg_agent_id: '33433'
     url: http://www.gutenberg.org/2009/agents/33433
     wikipedia: http://es.wikipedia.org/wiki/Antonio_de_Hoyos_y_Vinent
   - agent_name: Trigo, Felipe
     birthdate: 1864
-    deathdate: &id002 1916
+    deathdate: 1916
     gutenberg_agent_id: '43564'
     url: http://www.gutenberg.org/2009/agents/43564
     wikipedia:
@@ -64,7 +64,7 @@ creator:
     aliases:
     - José, Diego San
     - Jose, Diego San
-    birthdate: *id001
+    birthdate: 1885
     deathdate: 1962
     gutenberg_agent_id: '40979'
     url: http://www.gutenberg.org/2009/agents/40979
@@ -83,7 +83,7 @@ creator:
     - Eizaguirre, José Echegaray y
     - Echegaray, Jose
     birthdate: 1832
-    deathdate: *id002
+    deathdate: 1916
     gutenberg_agent_id: '40983'
     url: http://www.gutenberg.org/2009/agents/40983
   - agent_name: Retana, Alvaro
@@ -100,7 +100,7 @@ creator:
     aliases:
     - Flórez, W. F. (Wenceslao Fernández)
     - Fernandez-Florez, Wenceslao
-    birthdate: *id001
+    birthdate: 1885
     deathdate: 1964
     gutenberg_agent_id: '40980'
     url: http://www.gutenberg.org/2009/agents/40980
@@ -120,6 +120,8 @@ creator:
     gutenberg_agent_id: '25770'
     url: http://www.gutenberg.org/2009/agents/25770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41106#La-voz-de-la-conseja-t.2
 gutenberg_issued: '2012-10-18'
 gutenberg_type: Text
 identifiers:
